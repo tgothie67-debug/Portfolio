@@ -12,7 +12,7 @@ Passionné par l'analyse de données, la visualisation et la transformation des 
 |--------------------|------------------------------------------------------------------------------------|
 | **Langages**       | Python, SQL, R                                                                     |
 | **Big Data**       | PySpark                                                                            |
-| **Bases de données** | PostgreSQL, MySQL, SQLite, MongoDB                                               |
+| **Bases de données** | PostgreSQL, MySQL, SQLite                                                       |
 | **Visualisation**  | Power BI, Tableau, Matplotlib, Seaborn, Plotly                                    |
 | **Outils**         | Excel (avancé), Pandas, NumPy, Scikit-learn, Jupyter Notebook                     |
 | **Autres**         | Git, RGPD, Statistiques, Machine Learning (régression, classification, clustering) |
@@ -25,7 +25,7 @@ Passionné par l'analyse de données, la visualisation et la transformation des 
 
 | Projet                                                                 | Description                                                                                     | Outils/Technologies          |
 |------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------|
-| [Analyse de ventes pour un e-commerce](#)                              | Analyse des tendances de ventes et recommandations pour optimiser les performances.              | Python, Pandas, Matplotlib   |
+| [Analyse de ventes pour un e-commerce](https://drive.google.com/drive/folders/1VACGxniuCq4z_G8TeP8CN8swvN0Wr1so?usp=drive_link)                              | Analyse des tendances de ventes et recommandations pour optimiser les performances.              | Python, Pandas, Matplotlib   |
 | [Requêtes SQL sur une base de données](#)                              | Extraction et analyse de données à l'aide de requêtes SQL complexes.                           | SQL, PostgreSQL              |
 | [Étude de santé publique](#)                                          | Analyse de données épidémiologiques pour identifier des tendances et risques.                   | R/Python, Statistiques       |
 | [Base de données immobilière](#)                                      | Création et gestion d'une base de données immobilière avec requêtes SQL avancées.              | SQL, SQLite                   |
@@ -37,7 +37,6 @@ Passionné par l'analyse de données, la visualisation et la transformation des 
 | [Étude de marché](#)                                                   | Analyse des tendances du marché et recommandations stratégiques.                                | R/Python, Excel              |
 | [Détection de faux billets](#)                                         | Modèle de détection de contrefaçon à partir de données physiques.                              | R/Python, Scikit-learn       |
 
-*(Liens vers les projets à ajouter ultérieurement)*
 
 ---
 
