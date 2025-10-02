@@ -36,7 +36,7 @@ Passionné par l'analyse de données, la visualisation et la transformation des 
 | [Étude sur l'eau potable](https://drive.google.com/drive/folders/1OVWlRdigqWUQdSkjrHljS238p774GdN3?usp=drive_link)                                           | Création de visuels dans l'objectif d'identifier les populations dans le besoin.               | Tableau       |
 | [Étude de marché](https://drive.google.com/drive/folders/1pdY6ZD1gaT7kD11uMHWhhVn62Si6VDeD?usp=drive_link)                                                   | Analyse des tendances du marché et recommandations stratégiques.                               | Python, Excel, ACP              |
 | [Détection de faux billets](https://drive.google.com/drive/folders/1ieXfPo3jv28T4CKOY6C0M9cHQwwbBtqU?usp=drive_link)                                         | Modèle de détection de contrefaçon à partir de données physiques.                              | Python, Machine Learning       |
-
+| [Créez votre portfolio de professionnel de la data (Aéroworld)](https://drive.google.com/drive/folders/15CmZg9AN3enTgwWEjGrhx76QWGbtO1aA?usp=drive_link)     | Réaliser mon portfolio de Data Analyst.                                                        | Git, Power BI|
 
 ---
 
